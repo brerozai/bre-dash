@@ -1,0 +1,18 @@
+{
+  "entries": [
+    {"date":"2026-02-23","calories":1834,"protein":105,"weight":null,"muscle":null,"fat":null,"exercise":""},
+    {"date":"2026-02-24","calories":2140,"protein":90,"weight":null,"muscle":null,"fat":null,"exercise":""},
+    {"date":"2026-02-25","calories":1905,"protein":105,"weight":158.0,"muscle":63,"fat":34,"exercise":""},
+    {"date":"2026-02-26","calories":2475,"protein":70,"weight":null,"muscle":null,"fat":null,"exercise":""},
+    {"date":"2026-02-27","calories":1774,"protein":73,"weight":157.9,"muscle":63,"fat":34,"exercise":""},
+    {"date":"2026-02-28","calories":1905,"protein":110,"weight":null,"muscle":null,"fat":null,"exercise":""},
+    {"date":"2026-03-01","calories":1834,"protein":90,"weight":null,"muscle":null,"fat":null,"exercise":""},
+    {"date":"2026-03-02","calories":1846,"protein":90,"weight":null,"muscle":null,"fat":null,"exercise":""},
+    {"date":"2026-03-03","calories":1720,"protein":84,"weight":null,"muscle":null,"fat":null,"exercise":"shoulders, lats, biceps"},
+    {"date":"2026-03-04","calories":1624,"protein":76,"weight":158.2,"muscle":64,"fat":33,"exercise":"quads, glutes, hamstrings, calves"},
+    {"date":"2026-03-05","calories":1890,"protein":94,"weight":null,"muscle":null,"fat":null,"exercise":""},
+    {"date":"2026-03-06","calories":2105,"protein":99,"weight":null,"muscle":null,"fat":null,"exercise":""},
+    {"date":"2026-03-07","calories":2438,"protein":68,"weight":null,"muscle":null,"fat":null,"exercise":""},
+    {"date":"2026-03-16","calories":419,"protein":18,"weight":null,"muscle":null,"fat":null,"exercise":""}
+  ]
+}
