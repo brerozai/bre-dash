@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bre Jobs Dashboard</title>
+  <style>
+    body{font-family:Inter,system-ui,Arial,sans-serif;background:#0b1020;color:#eaf0ff;margin:0}
+    .wrap{max-width:1100px;margin:24px auto;padding:0 16px}
+    h1{margin:0 0 4px}.muted{color:#9fb0d6}
+    .grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:16px 0}
+    .card{background:#121a33;border:1px solid #26345f;border-radius:12px;padding:14px}
+    .k{font-size:12px;color:#9fb0d6}.v{font-size:26px;font-weight:700;margin-top:6px}
+    .row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+    table{width:100%;border-collapse:collapse}.tbl{overflow:auto;max-height:520px}
+    th,td{border-bottom:1px solid #233158;padding:8px;font-size:13px;text-align:left}
+    a{color:#9fc4ff}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Job Search '26 Dashboard</h1>
+    <div class="muted">Local dashboard from Applied + Applied (Round 1)</div>
+    <div class="grid" id="job-kpis"></div>
+    <div class="row" style="grid-template-columns:1fr;">
+      <div class="card tbl"><table id="inProgressTable"></table></div>
+    </div>
+    <div class="card tbl" style="margin-top:12px"><table id="allRolesTable"></table></div>
+  </div>
+  <script src="./jobs.js"></script>
+</body>
+</html>
